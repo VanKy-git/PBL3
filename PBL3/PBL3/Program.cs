@@ -2,10 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using System.Windows.Forms;
-using 
+using System.Windows.Forms; 
 
-namespace PBL3
+namespace PBL3.View
 {
     internal static class Program
     {
